@@ -4,7 +4,6 @@ import KamalZuhairiBinZamli from "public/img/keynote/Kamal Zuhairi Bin Zamli.jpg
 import ProfessorDrSMShameemReza from "public/img/keynote/Professor Dr SM Shameem Reza.jpg";
 import DrAbdurRazzak from "public/img/keynote/Dr Abdur Razzak.jpg";
 import AssociateProfessorDrZiaurRahman from "public/img/keynote/Associate Professor Dr Ziaur Rahman.jpg";
-import ProfJahangirHossain from "public/img/keynote/Prof Jahangir Hossain.jpg";
 import DrShahjahanMahmud from "public/img/speakers/Dr Shahjahan Mahmud.jpg";
 import KamalQuadir from "public/img/speakers/Kamal Quadir.jpg";
 import YasirAzman from "public/img/speakers/Yasir Azman.jpg";
@@ -14,13 +13,15 @@ const keynoteSpeakers = [
   { name: "Professor Dr. S. M. Shameem Reza", bio: "Dept. of Mass Communication & Journalism,/nUniversity of Dhaka", url: ProfessorDrSMShameemReza },
   { name: "Dr. Abdur Razzak", bio: "Director,/nResearch & Policy Integration for Development (RAPID)", url: DrAbdurRazzak },
   { name: "Associate Professor Dr. Ziaur Rahman", bio: "Dept. of Business Administration in Management Studies,/nBangladesh University of Professionals", url: AssociateProfessorDrZiaurRahman },
-  { name: "Prof. Jahangir Hossain", bio: "University of Technology Sydney", url: ProfJahangirHossain },
-];
-const invitedSpeakers = [
   { name: "Dr. Shahjahan Mahmud", bio: "Chairman, BCSCL", url: DrShahjahanMahmud },
   { name: "Yasir Azman", bio: "CEO, GrameenPhone", url: YasirAzman },
   { name: "Kamal Quadir", bio: "Chief Executive Officer, bKash Ltd.", url: KamalQuadir },
 ];
+// const invitedSpeakers = [
+//   { name: "Dr. Shahjahan Mahmud", bio: "Chairman, BCSCL", url: DrShahjahanMahmud },
+//   { name: "Yasir Azman", bio: "CEO, GrameenPhone", url: YasirAzman },
+//   { name: "Kamal Quadir", bio: "Chief Executive Officer, bKash Ltd.", url: KamalQuadir },
+// ];
 
 const EventSpeakers = () => {
   return (
@@ -38,7 +39,7 @@ const EventSpeakers = () => {
           })}
         </div>
       </div>
-      <div>
+      {/* <div>
         <h3 className="text-xl md:text-3xl text-center my-2">Invited Speakers</h3>
         <div className="my-5 flex flex-wrap justify-center">
           {invitedSpeakers.map((speaker, index) => {
@@ -49,7 +50,7 @@ const EventSpeakers = () => {
             );
           })}
         </div>
-      </div>
+      </div> */}
     </section>
   );
 };
