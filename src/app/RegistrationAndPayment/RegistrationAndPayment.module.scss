@@ -1,0 +1,11 @@
+.registration_fees_table {
+  width: 70%;
+  border-collapse: collapse;
+  .registration_fees_table_row {
+    text-align: center;
+
+    &:nth-child(odd) {
+      background-color: rgb(221, 216, 216);
+    }
+  }
+}

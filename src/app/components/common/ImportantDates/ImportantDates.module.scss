@@ -1,0 +1,10 @@
+.important_dates_table {
+  border-collapse: collapse;
+  .important_dates_table_tr {
+    text-align: center;
+
+    &:nth-child(odd) {
+      background-color: rgb(221, 216, 216);
+    }
+  }
+}

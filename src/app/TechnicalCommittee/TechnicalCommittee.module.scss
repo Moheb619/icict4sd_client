@@ -1,0 +1,11 @@
+.technical_program_table {
+  width: 98%;
+  border-collapse: collapse;
+  .technical_program_table_row {
+    text-align: center;
+
+    &:nth-child(odd) {
+      background-color: rgb(221, 216, 216);
+    }
+  }
+}

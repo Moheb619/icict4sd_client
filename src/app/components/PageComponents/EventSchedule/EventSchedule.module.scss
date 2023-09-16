@@ -1,0 +1,8 @@
+.event_schedule_table {
+  tr {
+    text-align: center;
+    &:nth-child(odd) {
+      background-color: rgb(221, 216, 216);
+    }
+  }
+}

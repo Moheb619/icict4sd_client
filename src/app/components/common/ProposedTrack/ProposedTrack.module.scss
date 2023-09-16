@@ -1,0 +1,11 @@
+.proposed_track_table {
+  width: 70%;
+  border-collapse: collapse;
+  .proposed_track_table_tr {
+    vertical-align: top;
+    &:nth-child(odd) {
+      text-align: center;
+      background-color: rgb(221, 216, 216);
+    }
+  }
+}
