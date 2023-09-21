@@ -28,7 +28,7 @@ const TPCMembersList = [
   "Professor Dr. Bobby Barua, Ahsanullah University of Science and Technology, Bangladesh",
   "Associate Professor Dr. Mohammad Mostafizur Rahman Biswas, American International University-Bangladesh",
   "Assistant Professor Dr. Moushumi Zaman Bonny, American International University-Bangladesh",
-  "Lecturer Mahfuzul Hoq Chowdhury, Chittagong University of Engineering and Technology, Bangladesh",
+  "Assistant Professor Mahfuzul Hoq Chowdhury, Chittagong University of Engineering and Technology, Bangladesh",
   "Professor Dr. Maheshi Dissanayake, University of Peradeniya, Sri Lanka",
   "Assistant Professor Dr. Abul Barkat Mollah Sayeed Ud Doulah, University of Liberal Arts Bangladesh",
   "Professor Dr. Bilkis Jamal Ferdosi, University of Asia Pacific, Bangladesh",

@@ -8,7 +8,7 @@ const NationalAdvisoryCommitteList = [
   "Engr. Md. Nurul Huda, President, Institution of Engineers, Bangladesh (IEB)",
   "Dr. Md. Nurunnabi Mollah, Professor, EEE, KUET",
   "Dr. Md. Mostofa Akbar, CSE, BUET",
-  "Dr. A K M Nazrul Islam, Professor, EECE, MIST",
+  "Dr. A K M Nazrul Islam, Register, University of Asia Pacific",
   "Professor Dr. Touhid Bhuiyan Head, Department of Computer Science Daffodil International University, Bangladesh",
   "Dr. Md. Mahbubur Rahman, Professor, CSE, MIST",
   "Dr. Md. Abdur Rahman, Professor, EEE, AIUB",

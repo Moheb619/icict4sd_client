@@ -8,21 +8,21 @@ const EventSchedule = () => {
   const day1 = [
     { event: "Conference Registration", time: "0800-0900 hrs" },
     { event: "Arrival of Chief Guest", time: "0845" },
-    { event: "Welcome Speech by the VC, BUP/nMajor General Md Mahbub-ul Alam, ndc afwc. RSC. MPhil, PhD", time: "0915-0925" },
+    { event: "Welcome Speech by the VC, BUP/nMajor General Md Mahbub-ul Alam, ndc, afw,. psc, MPhil, PhD", time: "0915-0925" },
     { event: "Welcome Speech by the Chairperson IEEE Bangladesh Section/nDr. M. Moshiul Hoque,Professor, Dept. of CSE, Chattogram University of Engineering and Technology (CUET)", time: "0925-0935" },
-    { event: "Conference Proceeding by the Organizing Chair/nBrigadier General Md Mustafa Kamal, SGP Dean, Faculty of Science and Technology, BUP ", time: "0935-0945" },
+    { event: "Conference Proceeding by the Conference Chair/nBrigadier General Md Mustafa Kamal, SGP, Dean, Faculty of Science and Technology, BUP", time: "0935-0945" },
     { event: "Speech by the Chief Guest and Opening of the Conference", time: "0945-1000" },
     { event: "Opening of the Exhibition & Walk Around", time: "1000-1015" },
     { event: "SNACKS", time: "1030-1100" },
     {
       event:
-        "Keynote Session by Dr. Kamal Zuhairi bin Zamli/nProfessor & Deputy Vice-Chancellor (Research & Innovation), University of Malaysia Pahang/n/nKeynote Session by Mr. Kamal Quadir CEO bKash Ltd./n/nSession Moderator : Mr. Nurul Kabir",
+        "Keynote Session by Dr. Kamal Zuhairi bin Zamli/nProfessor & Deputy Vice-Chancellor (Research & Innovation), University of Malaysia Pahang/n/nKeynote Session by Mr. Kamal Quadir, CEO bKash Ltd./n/nSession Moderator : Mr. T.I.M.Nurul Kabir",
       time: "1100-1300",
     },
     { event: "Lunch", time: "1300-1400" },
     {
       event:
-        "Keynote Session by Mr. Yasir Azman CEO Grameen Phone Ltd. /n/nKeynote Session by Dr. Mohammad Abdur Razzaque Director, Research & Policy Integration for Development (RAPID)/n/nSession Moderator : Mr. Mohammad Ali",
+        "Keynote Session by Mr. Yasir Azman, CEO Grameen Phone Ltd. /n/nKeynote Session by Dr. Mohammad Abdur Razzaque,Chairman and Director, Research & Policy Integration for Development (RAPID), Policy Research Institute of Bangladesh (PRI)/n/nSession Moderator : Mr. Abdus Salam",
       time: "1400-1600",
     },
     { event: "Snacks", time: "1600-1630" },
@@ -33,7 +33,7 @@ const EventSchedule = () => {
     { event: "Snacks", time: "1000-1030" },
     {
       event:
-        "Keynote Session by Dr. David Brown Professor in Interactive Systems for Social Inclusion, School of Science & Technology, Nottingham Trent University, UK. /n/nKeynote Session by Dr. Ziaur Rahman Associate Professor in the Dept. of Business Administration in Management Studies, BUP /n/nSession Moderator: Mr. Shahed Alam",
+        "Keynote Session by Dr. David Brown, Professor in Interactive Systems for Social Inclusion, School of Science & Technology, Nottingham Trent University, UK. /n/nKeynote Session by Dr. Ziaur Rahman, Associate Professor in the Dept. of Business Administration in Management Studies, BUP /n/nSession Moderator: Mr. Shahed Alam",
       time: "1030-1230",
     },
     { event: "Lunch", time: "1230-1500" },
@@ -46,7 +46,7 @@ const EventSchedule = () => {
     { event: "Snacks", time: "1000-1030" },
     {
       event:
-        "Keynote Session by Dr. S M Shameem Reza Professor in the Dept. of Mass Communication & Journalism, University of Dhaka /n/nKeynote Session by Dr. Shahjahan Mahmood Chairman, Bangladesh Satellite Company Ltd. (BSCL) /n/nSession Moderator: Dr. Md. Rafiqul Matin",
+        "Keynote Session by Dr. S M Shameem Reza, Professor in the Dept. of Mass Communication & Journalism, University of Dhaka /n/nKeynote Session by Dr. Shahjahan Mahmood Chairman, Bangladesh Satellite Company Ltd. (BSCL) /n/nSession Moderator: Dr. Md. Rafiqul Matin",
       time: "1030-1230",
     },
     { event: "Lunch", time: "1230-1330" },

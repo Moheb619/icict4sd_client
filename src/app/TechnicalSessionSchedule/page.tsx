@@ -7,7 +7,7 @@ const TechnicalSessionSchedule = () => {
         <h2 className="text-2xl font-semibold mb-4">Technical Session Slot 1A</h2>
         <p className="mb-2">Date & Time: 22/09/2023, 0800-1000</p>
         <p className="mb-2">Session Track: ICT in Industry (Signal)</p>
-        <p className="mb-2">Location: Class Room - 301, 3rd Floor, FBS Tower, BUP</p>
+        <p className="mb-2">Location: Class Room - 601, 6th Floor, Academic Building, BUP</p>
         <div className="overflow-x-auto">
           <table className="table-auto w-full">
             <thead>
@@ -55,7 +55,7 @@ const TechnicalSessionSchedule = () => {
         <h2 className="text-2xl font-semibold mb-4">Technical Session Slot 1B</h2>
         <p className="mb-2">Date & Time: 22/09/2023, 0800-1000</p>
         <p className="mb-2">Session Track: ICT in Healthcare</p>
-        <p className="mb-2">Location: Class Room - 302, 3rd Floor, FBS Tower, BUP</p>
+        <p className="mb-2">Location: Class Room - 602, 6th Floor, Academic Building, BUP</p>
         <div className="overflow-x-auto">
           <table className="table-auto w-full">
             <thead>
@@ -78,7 +78,7 @@ const TechnicalSessionSchedule = () => {
               </tr>
               <tr>
                 <td className="border px-4 py-2">104</td>
-                <td className="border px-4 py-2">Rabiul Hasan, Shah Muhammad Azmat Ullah, Avizit Nandi and Abu Taher</td>
+                <td className="border px-4 py-2">Md Rabiul Hasan, Shah Muhammad Azmat Ullah, Avizit Nandi and Abu Taher</td>
                 <td className="border px-4 py-2">Improving pneumonia diagnosis: A deep transfer learning CNN ensemble approach for accurate chest X-ray image analysis</td>
               </tr>
               <tr>
@@ -101,7 +101,7 @@ const TechnicalSessionSchedule = () => {
         <h2 className="text-2xl font-semibold mb-4">Technical Session Slot 1C</h2>
         <p className="mb-2">Date & Time: 22/09/2023, 0800-1000</p>
         <p className="mb-2">Session Track: ICT in Education</p>
-        <p className="mb-2">Location: Class Room - 303, 3rd Floor, FBS Tower, BUP</p>
+        <p className="mb-2">Location: Class Room - 603, 6th Floor, Academic Building, BUP</p>
         <div className="overflow-x-auto">
           <table className="table-auto w-full">
             <thead>
@@ -147,7 +147,7 @@ const TechnicalSessionSchedule = () => {
         <h2 className="text-2xl font-semibold mb-4">Technical Session Slot 1D</h2>
         <p className="mb-2">Date & Time: 22/09/2023, 0800-1000</p>
         <p className="mb-2">Session Track: ICT in Healthcare</p>
-        <p className="mb-2">Location: Class Room - 304, 3rd Floor, FBS Tower, BUP</p>
+        <p className="mb-2">Location: Class Room - 604, 6th Floor, Academic Building, BUP</p>
         <div className="overflow-x-auto">
           <table className="table-auto w-full">
             <thead>
@@ -192,7 +192,7 @@ const TechnicalSessionSchedule = () => {
         <h2 className="text-2xl font-semibold mb-4">Technical Session Slot 2A</h2>
         <p className="mb-2">Date & Time: 22/09/2023, 1600-1800</p>
         <p className="mb-2">Session Track: ICT in Healthcare</p>
-        <p className="mb-2">Location: Class Room - 301, 3rd Floor, FBS Tower, BUP</p>
+        <p className="mb-2">Location: Class Room - 601, 6th Floor, Academic Building, BUP</p>
         <div className="overflow-x-auto">
           <table className="table-auto w-full">
             <thead>
@@ -238,7 +238,7 @@ const TechnicalSessionSchedule = () => {
         <h2 className="text-2xl font-semibold mb-4">Technical Session Slot 2B</h2>
         <p className="mb-2">Date & Time: 22/09/2023, 1600-1800</p>
         <p className="mb-2">Session Track: ICT in Healthcare (Industry)</p>
-        <p className="mb-2">Location: Class Room - 302, 3rd Floor, FBS Tower, BUP</p>
+        <p className="mb-2">Location: Class Room - 602, 6th Floor, Academic Building, BUP</p>
         <div className="overflow-x-auto">
           <table className="table-auto w-full">
             <thead>
@@ -278,7 +278,7 @@ const TechnicalSessionSchedule = () => {
         <h2 className="text-2xl font-semibold mb-4">Technical Session Slot 2C</h2>
         <p className="mb-2">Date & Time: 22/09/2023, 1600-1800</p>
         <p className="mb-2">Session Track: ICT in Agriculture</p>
-        <p className="mb-2">Location: Class Room - 303, 3rd Floor, FBS Tower, BUP</p>
+        <p className="mb-2">Location: Class Room - 603, 6th Floor, Academic Building, BUP</p>
         <div className="overflow-x-auto">
           <table className="table-auto w-full">
             <thead>
@@ -298,7 +298,7 @@ const TechnicalSessionSchedule = () => {
               </tr>
               <tr>
                 <td className="border px-4 py-2">129</td>
-                <td className="border px-4 py-2">Md. Ahsan Arif, Md. Rokonuzzaman Reza, Angshu Mandal, Shah Syed Mohammad Fehir, Farhana Mimi Shuma and Md. Appel Mahmud Akib</td>
+                <td className="border px-4 py-2">Md. Ahsan Arif, Md. Rokonuzzaman Reza, Angshu Bikash Mandal, Shah Syed Mohammad Fehir, Farhana Mimi Shuma and Md. Appel Mahmud Akib</td>
                 <td className="border px-4 py-2">Towards Developing an IoT-Based Aquaculture Monitoring System</td>
               </tr>
               <tr>
@@ -326,7 +326,7 @@ const TechnicalSessionSchedule = () => {
         <h2 className="text-2xl font-semibold mb-4">Technical Session Slot 2D</h2>
         <p className="mb-2">Date & Time: 22/09/2023, 1600-1800</p>
         <p className="mb-2">Session Track: ICT in Smart City</p>
-        <p className="mb-2">Location: Class Room - 304, 3rd Floor, FBS Tower, BUP</p>
+        <p className="mb-2">Location: Class Room - 604, 6th Floor, Academic Building, BUP</p>
         <div className="overflow-x-auto">
           <table className="table-auto w-full">
             <thead>
@@ -372,7 +372,7 @@ const TechnicalSessionSchedule = () => {
         <h2 className="text-2xl font-semibold mb-4">Technical Session Slot 3A</h2>
         <p className="mb-2">Date & Time: 23/09/2023, 0800-1000</p>
         <p className="mb-2">Session Track: ICT in Healthcare</p>
-        <p className="mb-2">Location: Class Room - 301, 3rd Floor, FBS Tower, BUP</p>
+        <p className="mb-2">Location: Class Room - 601, 6th Floor, Academic Building, BUP</p>
         <div className="overflow-x-auto">
           <table className="table-auto w-full">
             <thead>
@@ -417,7 +417,7 @@ const TechnicalSessionSchedule = () => {
         <h2 className="text-2xl font-semibold mb-4">Technical Session Slot 3B</h2>
         <p className="mb-2">Date & Time: 23/09/2023, 0800-1000</p>
         <p className="mb-2">Session Track: ICT in Business</p>
-        <p className="mb-2">Location: Class Room - 302, 3rd Floor, FBS Tower, BUP</p>
+        <p className="mb-2">Location: Class Room - 602, 6th Floor, Academic Building, BUP</p>
         <div className="overflow-x-auto">
           <table className="table-auto w-full">
             <thead>
@@ -458,7 +458,7 @@ const TechnicalSessionSchedule = () => {
         <h2 className="text-2xl font-semibold mb-4">Technical Session Slot 3C</h2>
         <p className="mb-2">Date & Time: 23/09/2023, 0800-1000</p>
         <p className="mb-2">Session Track: ICT in Education (Bangla Text)</p>
-        <p className="mb-2">Location: Class Room - 303, 3rd Floor, FBS Tower, BUP</p>
+        <p className="mb-2">Location: Class Room - 603, 6th Floor, Academic Building, BUP</p>
         <div className="overflow-x-auto">
           <table className="table-auto w-full">
             <thead>
@@ -481,7 +481,7 @@ const TechnicalSessionSchedule = () => {
               </tr>
               <tr>
                 <td className="border px-4 py-2">90</td>
-                <td className="border px-4 py-2">Fahmida Hoque and Dr. Mohammed Nazim Uddin</td>
+                <td className="border px-4 py-2">Fahmida Afroja Hoque Borsha and Dr. Mohammed Nazim Uddin</td>
                 <td className="border px-4 py-2">Comparative Analysis of BanglaT5 and Pointer Generator Network for Bengali abstractive story summarization</td>
               </tr>
               <tr>
@@ -504,7 +504,7 @@ const TechnicalSessionSchedule = () => {
         <h2 className="text-2xl font-semibold mb-4">Technical Session Slot 3D</h2>
         <p className="mb-2">Date & Time: 23/09/2023, 0800-1000</p>
         <p className="mb-2">Session Track: ICT in Smart City</p>
-        <p className="mb-2">Location: Class Room - 304, 3rd Floor, FBS Tower, BUP</p>
+        <p className="mb-2">Location: Class Room - 604, 6th Floor, Academic Building, BUP</p>
         <div className="overflow-x-auto">
           <table className="table-auto w-full">
             <thead>
@@ -544,7 +544,7 @@ const TechnicalSessionSchedule = () => {
         <h2 className="text-2xl font-semibold mb-4">Technical Session Slot 4A</h2>
         <p className="mb-2">Date & Time: 23/09/2023, 1330-1530</p>
         <p className="mb-2">Session Track: ICT in Healthcare</p>
-        <p className="mb-2">Location: Class Room - 301, 3rd Floor, FBS Tower, BUP</p>
+        <p className="mb-2">Location: Class Room - 601, 6th Floor, Academic Building, BUP</p>
         <div className="overflow-x-auto">
           <table className="table-auto w-full">
             <thead>
@@ -572,7 +572,7 @@ const TechnicalSessionSchedule = () => {
               </tr>
               <tr>
                 <td className="border px-4 py-2">91</td>
-                <td className="border px-4 py-2">Md. Noumil Tousif, Rumana Akhter, Md Nahian Rabbi Ushan and Tasnima Matin Labonno</td>
+                <td className="border px-4 py-2">Md. Noumil Tousif, Rumana Akhter, Md Nahian Rabbi Ushan, Tasnima Matin Labonno, Synthia Ahmed and Md Najmul Islam</td>
                 <td className="border px-4 py-2">Revolutionizing Cancer Therapy: The Role of Artificial Intelligence in Enhancing Treatment Efficacy</td>
               </tr>
               <tr>
@@ -590,7 +590,7 @@ const TechnicalSessionSchedule = () => {
         <h2 className="text-2xl font-semibold mb-4">Technical Session Slot 4B</h2>
         <p className="mb-2">Date & Time: 23/09/2023, 1330-1530</p>
         <p className="mb-2">Session Track: ICT in Industry</p>
-        <p className="mb-2">Location: Class Room - 302, 3rd Floor, FBS Tower, BUP</p>
+        <p className="mb-2">Location: Class Room - 602, 6th Floor, Academic Building, BUP</p>
         <div className="overflow-x-auto">
           <table className="table-auto w-full">
             <thead>
@@ -631,7 +631,7 @@ const TechnicalSessionSchedule = () => {
         <h2 className="text-2xl font-semibold mb-4">Technical Session Slot 4C</h2>
         <p className="mb-2">Date & Time: 23/09/2023, 1330-1530</p>
         <p className="mb-2">Session Track: ICT in Industry (Electrical)</p>
-        <p className="mb-2">Location: Class Room - 303, 3rd Floor, FBS Tower, BUP</p>
+        <p className="mb-2">Location: Class Room - 603, 6th Floor, Academic Building, BUP</p>
         <div className="overflow-x-auto">
           <table className="table-auto w-full">
             <thead>
@@ -672,7 +672,7 @@ const TechnicalSessionSchedule = () => {
         <h2 className="text-2xl font-semibold mb-4">Technical Session Slot 4D</h2>
         <p className="mb-2">Date & Time: 23/09/2023, 1330-1530</p>
         <p className="mb-2">Session Track: ICT in Industry (Imaging)</p>
-        <p className="mb-2">Location: Class Room - 304, 3rd Floor, FBS Tower, BUP</p>
+        <p className="mb-2">Location: Class Room - 604, 6th Floor, Academic Building, BUP</p>
         <div className="overflow-x-auto">
           <table className="table-auto w-full">
             <thead>
@@ -712,7 +712,7 @@ const TechnicalSessionSchedule = () => {
         <h2 className="text-2xl font-semibold mb-4">Technical Session Slot 5A</h2>
         <p className="mb-2">Date & Time: 23/09/2023, 1600-1800</p>
         <p className="mb-2">Session Track: ICT in Industry (Security)</p>
-        <p className="mb-2">Location: Class Room - 301, 3rd Floor, FBS Tower, BUP</p>
+        <p className="mb-2">Location: Class Room - 601, 6th Floor, Academic Building, BUP</p>
         <div className="overflow-x-auto">
           <table className="table-auto w-full">
             <thead>
@@ -758,7 +758,7 @@ const TechnicalSessionSchedule = () => {
         <h2 className="text-2xl font-semibold mb-4">Technical Session Slot 5B</h2>
         <p className="mb-2">Date & Time: 23/09/2023, 1600-1800</p>
         <p className="mb-2">Session Track: ICT in Industry (Security)</p>
-        <p className="mb-2">Location: Class Room - 302, 3rd Floor, FBS Tower, BUP</p>
+        <p className="mb-2">Location: Class Room - 602, 6th Floor, Academic Building, BUP</p>
         <div className="overflow-x-auto">
           <table className="table-auto w-full">
             <thead>
@@ -786,7 +786,7 @@ const TechnicalSessionSchedule = () => {
               </tr>
               <tr>
                 <td className="border px-4 py-2">276</td>
-                <td className="border px-4 py-2">Md. Shazzad Rahman, M Shamim Kaiser, Meherun Binte Alam and Sifat Nawrin Nova</td>
+                <td className="border px-4 py-2">Md. Shazzad-Ur-Rahman, M Shamim Kaiser, Meherun Binte Alam and Sifat Nawrin Nova</td>
                 <td className="border px-4 py-2">A Data Hiding Technique Combining Steganography and Cryptography for Secured Communication</td>
               </tr>
             </tbody>
@@ -799,7 +799,7 @@ const TechnicalSessionSchedule = () => {
         <h2 className="text-2xl font-semibold mb-4">Technical Session Slot 5C</h2>
         <p className="mb-2">Date & Time: 23/09/2023, 1600-1800</p>
         <p className="mb-2">Session Track: ICT in Healthcare</p>
-        <p className="mb-2">Location: Class Room - 303, 3rd Floor, FBS Tower, BUP</p>
+        <p className="mb-2">Location: Class Room - 603, 6th Floor, Academic Building, BUP</p>
         <div className="overflow-x-auto">
           <table className="table-auto w-full">
             <thead>
@@ -845,7 +845,7 @@ const TechnicalSessionSchedule = () => {
         <h2 className="text-2xl font-semibold mb-4">Technical Session Slot 5D</h2>
         <p className="mb-2">Date & Time: 23/09/2023, 1600-1800</p>
         <p className="mb-2">Session Track: ICT in Industry</p>
-        <p className="mb-2">Location: Class Room - 304, 3rd Floor, FBS Tower, BUP</p>
+        <p className="mb-2">Location: Class Room - 604, 6th Floor, Academic Building, BUP</p>
         <div className="overflow-x-auto">
           <table className="table-auto w-full">
             <thead>
