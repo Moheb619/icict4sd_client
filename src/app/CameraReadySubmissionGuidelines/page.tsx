@@ -5,9 +5,10 @@ const CameraReadySubmissionGuidelines = () => {
     <div className="p-8 md:p-14">
       <h1 className="text-3xl md:text-4xl font-bold mb-6 text-center">Instruction for Preparing Camera-Ready Paper</h1>
       <div className="mx-auto my-2 text-center my-5">
-        <Link href={"https://forms.gle/AdhqkH8GPqyxHggZA"} className="btn btn-primary w-auto text-[0.7rem] md:text-[0.9rem]">
-          Camera Ready Submission
-        </Link>
+        <button className="btn btn-primary w-auto text-[0.7rem] md:text-[0.9rem]" disabled>
+          <a href="https://forms.gle/AdhqkH8GPqyxHggZA">Camera Ready Submission (Submission time is over)</a>
+        </button>
+
         <p className="my-5">
           Last date of Camera-Ready Submission is <strong>08 September, 2023.</strong>
         </p>
