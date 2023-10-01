@@ -3,49 +3,83 @@ import Link from "next/link";
 const CameraReadySubmissionGuidelines = () => {
   return (
     <div className="p-8 md:p-14">
-      <h1 className="text-3xl md:text-4xl font-bold mb-6 text-center">Instruction for Preparing Camera-Ready Paper</h1>
-      <div className="mx-auto my-2 text-center my-5">
-        <button className="btn btn-primary w-auto text-[0.7rem] md:text-[0.9rem]" disabled>
-          <a href="https://forms.gle/AdhqkH8GPqyxHggZA">Camera Ready Submission (Submission time is over)</a>
-        </button>
+      <h1 className="text-3xl md:text-4xl font-bold mb-6 text-center">Instruction for Authors</h1>
 
-        <p className="my-5">
-          Last date of Camera-Ready Submission is <strong>08 September, 2023.</strong>
+      <div className="mx-auto">
+        <p className="mb-4">
+          All authors are humbly requested to follow the instructions given below so that the last step of the conference is promulgated successfully.Conference Organizers request the cooperation of
+          all authors in this regard. According to IEEE, papers will not be included in IEEE Xplore if their guidelines are not followed. Read and follow the instructions listed in four steps below.
+          Please email us if you need any help.
         </p>
-      </div>
 
-      <div className="my-2 md:my-10">
-        <ul className="list-disc md:px-10">
-          <li>Click the above link to access the required page.</li>
-          <li>The paper must meet the submission guidelines provided by IEEE.</li>
-          <li>Last date of Submission 08 September, 2023</li>
-          <li>Keep in mind that an author must register and present the paper at the conference for it to be included in the proceedings.</li>
-          <li>Accepted papers will be submitted for inclusion into IEEE Xplore subject to meeting IEEE Xplore’s scope and quality requirements.</li>
-          <li>Without presenting, papers will not be included in the conference proceedings.</li>
-        </ul>
-      </div>
-
-      {/* Step 1 */}
-      <div className="my-4 md:my-10">
-        <h3 className="text-xl font-bold md:pl-3">Step 1: Prepare your revised final manuscript</h3>
-        <ul className="list-disc md:px-10">
-          <li>Address reviewers comments and revise your paper accordingly. </li>
-          <li>Make sure that all Figures and Tables are of high quality and their content is easily readable.</li>
-          <li>Don&apos;t use author titles (Dr., Engg., etc.) in front of names and avoid using positions such as Professor, Lecturer, Scholar, Ing., etc.</li>
-          <li>Ensure that the submission information (including title, authors, abstract etc.) is updated with your most recent version.</li>
-          <li>Remove all headers and footers including page numbering.</li>
-          <li>
-            Add the conference title as header (font size: 10, Times New Roman) as below: <br />
-            <p className="text-right text-sm">
-              2023 International Conference on Information and Communication Technology for Sustainable <br />
-              Development (ICICT4SD), 21-23 September, Dhaka
+        <div className="mb-8">
+          <div className="mb-4">
+            <p className="step-number font-bold">Step 1: Complete and Digitally Sign the IEEE Electronic Copyright Form</p>
+            <p className="step-description">
+              Papers without completed copyright forms will not appear in the conference proceedings and will not be published in IEEE Xplore. The IEEE copyright transfer form can be filled in online
+              easily through the given link. To do so, please follow the procedure below:
             </p>
-          </li>
-        </ul>
-      </div>
+            <ol className="list-inside pl-6" style={{ listStyleType: "lower-alpha" }}>
+              <li>
+                Login in the provided link (
+                <a href="https://ecopyright.ieee.org/ECTT/login.do" className="text-blue-500 hover:underline">
+                  https://ecopyright.ieee.org/ECTT/login.do
+                </a>
+                ) by IEEE and select the “proceedings role”
+              </li>
+              <li>From the “Copyright” tab of your IEEE account, you will get a welcome page of IEEE Publication Agreement then click on start.</li>
+              <li>After that, you have to select a yes or no option based on your choice.</li>
+              <li>
+                Click on the box and continue to accept the IEEE Policies of Plagiarism to confirm the article originality and signature authority. After that, select option (yes or no) as per your
+                requirements.
+              </li>
+              <li>Checking for Funder Mandates select appropriate options then continue.</li>
+              <li>At the end of this procedure, the online IEEE Copyright Transfer Form will be displayed and download the eCF.</li>
+              <li>The form will be recorded in IEEE, and a copy sent to you by e-mail.</li>
+            </ol>
+          </div>
 
-      {/* Note */}
-      <p className="text-red-600 font-bold text-center">Detailed Instruction regarding copyright and PDF eXpress will be provided later.</p>
+          <div className="mb-4">
+            <p className="step-number font-bold">Step 2: Prepare the Revised Final Manuscript</p>
+            <ol className="list-inside pl-6" style={{ listStyleType: "lower-alpha" }}>
+              <li>
+                Follow the IEEE Conference Template guidelines for proper formatting of your paper.{" "}
+                <a href="https://www.ieee.org/content/dam/ieee-org/ieee/web/org/conferences/Conference-template-A4.doc" className="text-blue-500 hover:underline">
+                  Click Here to Download the Template
+                </a>
+                .
+              </li>
+              <li>Address the reviewer&apos;s and session chair&apos;s comments and revise your paper accordingly.</li>
+              <li>Make sure that all Figures and Tables are of high quality and their contents are easily readable.</li>
+              <li>Do not use author titles (Dr., Engg., etc.) in front of names, and avoid using positions such as Professor, Lecturer, Scholar, Ing., etc.</li>
+              <li>Remove all headers and footers including page numbering.</li>
+            </ol>
+          </div>
+
+          <div className="mb-4">
+            <p className="step-number font-bold">Step 3: Generate IEEE Compatible PDF Copy Using the IEEE PDF eXpress</p>
+            <p className="step-description">
+              PDF copy of the manuscript must be generated by using the IEEE PDF eXpress web tool. PDF files generated in other ways might not be IEEE Xplore-compliant and could be rejected. The
+              instructions to generate an IEEE-Xplore-compatible PDF file using the IEEE PDF eXpress web tool are listed below.{" "}
+              <a href="https://ieee-pdf-express.org/" className="text-blue-500 hover:underline">
+                https://ieee-pdf-express.org/
+              </a>
+              . To log in to the IEEE PDF eXpress TM site:
+            </p>
+            <ol className="list-inside pl-6" style={{ listStyleType: "lower-alpha" }}>
+              <li>First-time users should create an account.</li>
+              <li>Enter the following: 59951X for the Conference ID.</li>
+              <li>An online confirmation will be displayed, and an email confirmation will be sent verifying your account.</li>
+              <li>Users with a previous account of PDF Xpress need to follow the above steps to log in. Verify that your contact information is valid.</li>
+            </ol>
+          </div>
+
+          <div className="mb-4">
+            <p className="step-number font-bold">Step 4: Submission of IEEE Complaint PDF Copy</p>
+            <p className="step-description">Upload the PDF validated by IEEE PDF eXpress via the EasyChair before the deadline (October 01, 2023).</p>
+          </div>
+        </div>
+      </div>
     </div>
   );
 };

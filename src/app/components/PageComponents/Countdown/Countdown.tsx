@@ -51,7 +51,7 @@ const Countdown: React.FC<CountdownProps> = ({ className, caption }) => {
   return (
     <div className={`${className ? className : ""} flex flex-col place-items-center`}>
       <div className="text-white font-bold my-5 text-xs md:text-xl italic uppercase" style={{ textShadow: "1px 1px white" }}>
-        Conference Day 1
+        Conference Day 2
       </div>
       <div className="text-xl md:text-4xl font-bold text-white">
         {/* <span className="bg-gray-800 mx-1 p-1 rounded-lg">{day}d </span>

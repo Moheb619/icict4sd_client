@@ -46,7 +46,7 @@ const EventSchedule = () => {
     { event: "Snacks", time: "1000-1030" },
     {
       event:
-        "Keynote Session by Dr. S M Shameem Reza, Professor in the Dept. of Mass Communication & Journalism, University of Dhaka /n/nKeynote Session by Dr. Shahjahan Mahmood Chairman, Bangladesh Satellite Company Ltd. (BSCL) /n/nSession Moderator: Dr. Md. Rafiqul Matin",
+        "Keynote Session by Dr. S M Shameem Reza, Professor in the Dept. of Mass Communication & Journalism, University of Dhaka /n/nKeynote Session by Mr. Syed Almas Kabir, Managing Director & CEO, MetroNet Bangladesh Limited President, Bangladesh-Malaysia Chamber of Commerce & Industry/n/nSession Moderator: Dr. Md. Rafiqul Matin",
       time: "1030-1230",
     },
     { event: "Lunch", time: "1230-1330" },

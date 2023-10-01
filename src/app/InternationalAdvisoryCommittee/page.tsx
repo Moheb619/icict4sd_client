@@ -10,6 +10,7 @@ const InternationalAdvisoryCommitteList = [
   "Dr. Sadid Hasan, AI Lead at Microsoft Cambridge, MA, USA",
   "Dr. Mufti Mahmud, Associate Professor, Department of Computer Science Nottingham Trent University, UK",
   "Dr M Hasan Shaheed, Phd, School of Engineering and Materials Science Queen Mary University of London London, UK",
+  "Prof. Dr. Haslina Binti Arshad, PENSYARAH UNIVERSITI, PUSAT PENYELIDIKAN TEKNOLOGI KECERDASAN BUATAN (CAIT)",
   "Professor Mike Hinchey, PhD, Software Engineering University of Limerick Ireland",
   "Professor B. M. Azizur Rahman,School of Science & Technology, Department of Engineering, City University, London ",
 ];
